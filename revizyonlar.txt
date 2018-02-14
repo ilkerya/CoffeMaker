@@ -1,0 +1,32 @@
+Selam,
+1- BJU emulator V.... Eldeki yazilimda haberlesme ekraninda (Flash a yaz butonu) ve 
+flash Okuma yazma ekraninda (Flash tablosundan emulatore yaz butonunu) emulatore yazma komutu gonderip, 
+ardindan okuma komutu gonderip kontrol eder hale getiecegiz (ki yazdigimizdan emin olabilelim. yada en azindan ack komutunu geri alabilelim.)
+
+2- Sadece kisitli data takip programi.. BJU emulator yazma kisitli V....   
+    haberlesme ekraninda Flash a yaz butonu be Flasdan oku butonlari silinecek.    
+    flash Okuma yazma ekrani tamamen ulasilmaz olacak ..
+    Bu versiyonda sadece Ram den oku yapilip veri takip izlenebilecek.
+
+3- BJU emulator V.... den devam ediyoruz. Bu versiyonun adi KahveMakinasiEmulatoru2
+    Flash a 500 byte yazip kontrol edecegiz ve okuyacagiz. (5 x 100byte)    
+    Mimik ekrani kahve jpeg olacak.
+
+
+4- KahveMakinasiEmulatoru2 devam .... Bu versiyonun adi Tost Emulator
+    onceki gibi Flash a 500 byte yazip kontrol edecegiz ve okuyacagiz. (5 x 100byte)
+    Mimik ekrani tost jpeg olacak.
+
+
+
+
+
+
+1. ve 2. madde icin
+BJU Emulator V klasorunde fark ..
+
+Okyanus.Definitions.BJU_emulator_yazma_kisitli_V degiskeni ile sacerek derlediktan sonra ayarlaniyor
+
+Okyanus.Definitions.BJU_emulator_yazma_kisitli_V = true; // flash yazma kisitli
+Okyanus.Definitions.BJU_emulator_yazma_kisitli_V = false // normal
+

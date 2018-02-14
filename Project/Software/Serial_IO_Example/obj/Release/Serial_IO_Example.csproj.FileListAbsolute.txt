@@ -1,0 +1,74 @@
+D:\Serial_IO_Example\Serial_IO_Example\bin\Release\Okyanus Data Logger.xml
+D:\Serial_IO_Example\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe
+D:\Serial_IO_Example\Serial_IO_Example\bin\Release\Okyanus Data Logger.pdb
+D:\Serial_IO_Example\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\Serial_IO_Example\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\Serial_IO_Example\Serial_IO_Example\obj\Release\Serial_IO_Example.csproj.GenerateResource.Cache
+D:\Serial_IO_Example\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe
+D:\Serial_IO_Example\Serial_IO_Example\obj\Release\Okyanus Data Logger.pdb
+D:\Serial_IO_Example\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.xml
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.pdb
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe.manifest
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.application
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.pdb
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\bin\Release\NPlot.dll
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Serial_IO_Example.csproj.GenerateResource.Cache
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.TrustInfo.xml
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe.manifest
+D:\Technical\Okyanus_Serial\Software_23nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.application
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe.manifest
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.application
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.xml
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\bin\Release\Okyanus Data Logger.pdb
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\bin\Release\NPlot.dll
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Serial_IO_Example.csproj.GenerateResource.Cache
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.TrustInfo.xml
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe.manifest
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.application
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe
+D:\Technical\Okyanus_Serial\Software_23_nisan_patlak\Serial_IO_Example\obj\Release\Okyanus Data Logger.pdb
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe.manifest
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\Okyanus Data Logger.application
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\Okyanus Data Logger.xml
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\Okyanus Data Logger.exe
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\Okyanus Data Logger.pdb
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\tr-TR\Okyanus Data Logger.resources.dll
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\bin\Release\NPlot.dll
+D:\_Okyanus\Okyanus Data Logger.exe.config
+D:\_Okyanus\Okyanus Data Logger.exe.manifest
+D:\_Okyanus\Okyanus Data Logger.application
+D:\_Okyanus\Okyanus Data Logger.exe
+D:\_Okyanus\Okyanus Data Logger.pdb
+D:\_Okyanus\Okyanus Data Logger.xml
+D:\_Okyanus\tr-TR\Okyanus Data Logger.resources.dll
+D:\_Okyanus\tr\Okyanus Data Logger.resources.dll
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.AboutBox1.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.ClearChart.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.EndApp.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.Start.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr-TR.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.tr-TR.resources
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.csproj.GenerateResource.Cache
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\tr-TR\Okyanus Data Logger.resources.dll
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\tr\Okyanus Data Logger.resources.dll
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus Data Logger.TrustInfo.xml
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe.manifest
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus Data Logger.application
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus Data Logger.exe
+D:\Technical\Okyanus_Serial\Software\Serial_IO_Example\obj\Release\Okyanus Data Logger.pdb
+D:\_DataLogProject\Okyanus Data Logger.exe.config

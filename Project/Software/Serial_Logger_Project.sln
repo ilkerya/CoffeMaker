@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D00CDC6-9BED-41BE-901E-E50B365B4D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial_Logger", "Serial_IO_Example\Serial_Logger.csproj", "{DCDE6A59-3EAD-4343-8C46-9874543E2659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDE6A59-3EAD-4343-8C46-9874543E2659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDE6A59-3EAD-4343-8C46-9874543E2659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDE6A59-3EAD-4343-8C46-9874543E2659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDE6A59-3EAD-4343-8C46-9874543E2659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_AssemblyInfoFilename = Serial_IO_Example\Properties\AssemblyInfo.cs
+		BuildVersion_UseGlobalSettings = True
+	EndGlobalSection
+EndGlobal

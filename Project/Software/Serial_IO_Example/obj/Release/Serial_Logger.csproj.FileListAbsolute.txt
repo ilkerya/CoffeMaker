@@ -1,0 +1,159 @@
+D:\_DataLogProject\BJU Emulator V.exe.config
+D:\_DataLogProject\BJU Emulator V.exe.manifest
+D:\_DataLogProject\BJU Emulator V.application
+D:\_DataLogProject\BJU Emulator V.exe
+D:\_DataLogProject\BJU Emulator V.pdb
+D:\_DataLogProject\Okyanus Data Logger.xml
+D:\_DataLogProject\tr-TR\BJU Emulator V.resources.dll
+D:\_DataLogProject\tr\BJU Emulator V.resources.dll
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.AboutBox1.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.ClearChart.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.EndApp.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.Start.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr-TR.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.tr-TR.resources
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\Serial_Logger.csproj.GenerateResource.Cache
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\tr-TR\BJU Emulator V.resources.dll
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\tr\BJU Emulator V.resources.dll
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\BJU Emulator V.TrustInfo.xml
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\BJU Emulator V.exe.manifest
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\BJU Emulator V.application
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\BJU Emulator V.exe
+D:\OKYANUS\BJU Emulator V\Software\Serial_IO_Example\obj\Release\BJU Emulator V.pdb
+D:\OKYANUS\BJU Emulator V\Output\BJU Emulator V.exe.config
+D:\OKYANUS\BJU Emulator V\Output\BJU Emulator V.exe.manifest
+D:\OKYANUS\BJU Emulator V\Output\BJU Emulator V.application
+D:\OKYANUS\BJU Emulator V\Output\BJU Emulator V.exe
+D:\OKYANUS\BJU Emulator V\Output\BJU Emulator V.pdb
+D:\OKYANUS\BJU Emulator V\Output\Okyanus Data Logger.xml
+D:\OKYANUS\BJU Emulator V\Output\tr-TR\BJU Emulator V.resources.dll
+D:\OKYANUS\BJU Emulator V\Output\tr\BJU Emulator V.resources.dll
+D:\OKYANUS\Kahve Mak Emulator V1\Output\Kahve Makinesi Emulator V1.exe.config
+D:\OKYANUS\Kahve Mak Emulator V1\Output\Kahve Makinesi Emulator V1.exe.manifest
+D:\OKYANUS\Kahve Mak Emulator V1\Output\Kahve Makinesi Emulator V1.application
+D:\OKYANUS\Kahve Mak Emulator V1\Output\Kahve Makinesi Emulator V1.exe
+D:\OKYANUS\Kahve Mak Emulator V1\Output\Kahve Makinesi Emulator V1.pdb
+D:\OKYANUS\Kahve Mak Emulator V1\Output\tr-TR\Kahve Makinesi Emulator V1.resources.dll
+D:\OKYANUS\Kahve Mak Emulator V1\Output\tr\Kahve Makinesi Emulator V1.resources.dll
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.AboutBox1.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.ClearChart.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.EndApp.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.Start.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr-TR.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.tr-TR.resources
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Serial_Logger.csproj.GenerateResource.Cache
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\tr-TR\Kahve Makinesi Emulator V1.resources.dll
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\tr\Kahve Makinesi Emulator V1.resources.dll
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Kahve Makinesi Emulator V1.TrustInfo.xml
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Kahve Makinesi Emulator V1.exe.manifest
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Kahve Makinesi Emulator V1.application
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Kahve Makinesi Emulator V1.exe
+D:\OKYANUS\Kahve Mak Emulator V1\Software\Serial_IO_Example\obj\Release\Kahve Makinesi Emulator V1.pdb
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\ResolveAssemblyReference.cache
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.AboutBox1.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.ClearChart.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.EndApp.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.Start.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr-TR.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.tr-TR.resources
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_Logger.csproj.GenerateResource.Cache
+D:\OKYANUS\Project\Output\Okyanus Emulator V1.1.exe.config
+D:\OKYANUS\Project\Output\Okyanus Emulator V1.1.exe.manifest
+D:\OKYANUS\Project\Output\Okyanus Emulator V1.1.application
+D:\OKYANUS\Project\Output\Okyanus Emulator V1.1.exe
+D:\OKYANUS\Project\Output\Okyanus Emulator V1.1.pdb
+D:\OKYANUS\Project\Output\tr-TR\Okyanus Emulator V1.1.resources.dll
+D:\OKYANUS\Project\Output\tr\Okyanus Emulator V1.1.resources.dll
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\tr-TR\Okyanus Emulator V1.1.resources.dll
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\tr\Okyanus Emulator V1.1.resources.dll
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator V1.1.TrustInfo.xml
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator V1.1.exe.manifest
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator V1.1.application
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator V1.1.exe
+D:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator V1.1.pdb
+C:\OKYANUS\Project\Output\Okyanus Emulator.exe.config
+C:\OKYANUS\Project\Output\Okyanus Emulator.exe.manifest
+C:\OKYANUS\Project\Output\Okyanus Emulator.application
+C:\OKYANUS\Project\Output\Okyanus Emulator.exe
+C:\OKYANUS\Project\Output\Okyanus Emulator.pdb
+C:\OKYANUS\Project\Output\tr-TR\Okyanus Emulator.resources.dll
+C:\OKYANUS\Project\Output\tr\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\Okyanus Emulator.exe.config
+C:\OKYANUS\2015\Okyanus Emulator.exe.manifest
+C:\OKYANUS\2015\Okyanus Emulator.application
+C:\OKYANUS\2015\Okyanus Emulator.exe
+C:\OKYANUS\2015\Okyanus Emulator.pdb
+C:\OKYANUS\2015\tr-TR\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\tr\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\2015\Okyanus Emulator.exe.config
+C:\OKYANUS\2015\Project\Output\Okyanus Emulator.exe.config
+C:\OKYANUS\2015\Project\OUT\Okyanus Emulator.exe.config
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.AboutBox1.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.ClearChart.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.CommandListApp.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.DosyaListesi.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.EndApp.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.Start.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr-TR.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.tr-TR.resources
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Serial_Logger.csproj.GenerateResource.Cache
+C:\OKYANUS\2015\Project\OUT\Okyanus Emulator.exe.manifest
+C:\OKYANUS\2015\Project\OUT\Okyanus Emulator.application
+C:\OKYANUS\2015\Project\OUT\Okyanus Emulator.exe
+C:\OKYANUS\2015\Project\OUT\Okyanus Emulator.pdb
+C:\OKYANUS\2015\Project\OUT\tr-TR\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\Project\OUT\tr\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\tr-TR\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\tr\Okyanus Emulator.resources.dll
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.TrustInfo.xml
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.exe.manifest
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.application
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.exe
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.pdb
+C:\OKYANUS\2015\Project\Software\Serial_IO_Example\obj\Release\Serial_Logger.csprojResolveAssemblyReference.cache
+C:\OKYANUS\Project\OUT\Okyanus Emulator.exe.config
+C:\OKYANUS\Project\OUT\Okyanus Emulator.exe.manifest
+C:\OKYANUS\Project\OUT\Okyanus Emulator.application
+C:\OKYANUS\Project\OUT\Okyanus Emulator.exe
+C:\OKYANUS\Project\OUT\Okyanus Emulator.pdb
+C:\OKYANUS\Project\OUT\tr-TR\Okyanus Emulator.resources.dll
+C:\OKYANUS\Project\OUT\tr\Okyanus Emulator.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.AboutBox1.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.ClearChart.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.CommandListApp.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.DosyaListesi.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.EndApp.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.Properties.Resources.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.Start.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr-TR.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_IO_Example.Serial_test.tr.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus.LOGData.tr-TR.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_Logger.csproj.GenerateResource.Cache
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\tr-TR\Okyanus Emulator.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\tr\Okyanus Emulator.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.TrustInfo.xml
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.exe.manifest
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.application
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.exe
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Okyanus Emulator.pdb
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Release\Serial_Logger.csprojResolveAssemblyReference.cache

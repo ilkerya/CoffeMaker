@@ -1,0 +1,28 @@
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\Okyanus Emulator V1.3.exe.config
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\Okyanus Emulator V1.3.exe.manifest
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\Okyanus Emulator V1.3.application
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\Okyanus Emulator V1.3.exe
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\Okyanus Emulator V1.3.pdb
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\tr-TR\Okyanus Emulator V1.3.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\tr\Okyanus Emulator V1.3.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\LumenWorks.Framework.IO.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\bin\Debug\NPlot.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\ResolveAssemblyReference.cache
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.AboutBox1.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.ClearChart.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.EndApp.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Serial_IO_Example.Serial_test.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.LOGData.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.Properties.Resources.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.Start.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Serial_IO_Example.Serial_test.tr-TR.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Serial_IO_Example.Serial_test.tr.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus.LOGData.tr-TR.resources
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Serial_Logger.csproj.GenerateResource.Cache
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\tr-TR\Okyanus Emulator V1.3.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\tr\Okyanus Emulator V1.3.resources.dll
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus Emulator V1.3.TrustInfo.xml
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus Emulator V1.3.exe.manifest
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus Emulator V1.3.application
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus Emulator V1.3.exe
+C:\OKYANUS\Project\Software\Serial_IO_Example\obj\Debug\Okyanus Emulator V1.3.pdb

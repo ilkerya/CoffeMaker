@@ -1,0 +1,16 @@
+Variable Name,Adress,Sign,Length,Bit,Charting On,Chart Multiply,Chart Min,Chart Max,Chart Colour
+Tkazan,0,+,2,   ,Var,x1,0,250,0
+Tutu,2,+,2,   ,Var,x1,0,250,0
+Tva,4,+,2,   ,Var,x1,0,250,0
+Tvk,6,+,2,   ,Var,x1,0,250,0
+Mvt,8,+,2,   ,Var,x1,0,250,0
+Tv1,10,+,2,   ,Var,x1,0,250,0
+n7,12,+,1,   ,Var,x1,0,150,0
+n8,13,+,1,   ,Var,x1,0,200,0
+n9,14,+,1,   ,Var,x1,0,100,0
+SAAT,15,+,1,   ,Var,x1,0,100,0
+DAKIKA,16,+,1,   ,Var,x1,0,100,0
+05SANIYE,17,+,1,   ,Var,x1,0,150,0
+Variable12,18,+,1,   ,Var,x1,0,150,0
+Variable13,19,+,1,   ,Var,x1,0,150,0
+,,,20,,,,,,

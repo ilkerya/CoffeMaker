@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kahve Makinesi Emulator V1</name>
+    </assembly>
+    <members>
+        <member name="M:Serial_IO_Example.Serial_test.Botton100_DISPLAY_TEXT_WRITING">
+             serial port 1 connect
+        </member>
+        <member name="M:Serial_IO_Example.Serial_test.LOG_GetDateTime">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:Serial_IO_Example.Serial_test.File_Save_CommandFile">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="F:Serial_IO_Example.Serial_test.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Serial_IO_Example.Serial_test.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Serial_IO_Example.Serial_test.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Serial_IO_Example.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:Okyanus.Start.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Okyanus.Start.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Okyanus.Start.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Okyanus.AboutBox1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Okyanus.AboutBox1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:Okyanus.AboutBox1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Okyanus.LOGData.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Okyanus.LOGData.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Okyanus.LOGData.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Okyanus.ClearChart.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Okyanus.ClearChart.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Okyanus.ClearChart.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Okyanus.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Okyanus.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Okyanus.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Okyanus.Properties.Resources.AssemblyInfo" -->
+        <!-- Badly formed XML comment ignored for member "P:Okyanus.Properties.Resources.Resources_Designer" -->
+        <!-- Badly formed XML comment ignored for member "P:Okyanus.Properties.Resources.Settings_Designer" -->
+        <member name="F:Okyanus.EndApp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Okyanus.EndApp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Okyanus.EndApp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Okyanus.Form1">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Okyanus.Form1.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Okyanus.Form1.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
